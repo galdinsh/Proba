@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\bin\Debug\net6.0\ASDF.exe
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\bin\Debug\net6.0\ASDF.deps.json
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\bin\Debug\net6.0\ASDF.runtimeconfig.json
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\bin\Debug\net6.0\ASDF.dll
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\bin\Debug\net6.0\ASDF.pdb
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\ASDF.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\ASDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\ASDF.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\ASDF.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\ASDF.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\ASDF.dll
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\refint\ASDF.dll
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\ASDF.pdb
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\ASDF.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Проба\Proba\ASDF\obj\Debug\net6.0\ref\ASDF.dll
